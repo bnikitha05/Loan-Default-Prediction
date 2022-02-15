@@ -17,5 +17,5 @@ ___
 
 ## Files/Folders
 - *code.ipynb*: Notebook for the complete ML pipeline
-- *data/*: Folder containing raw train and test data
-- *output/*: output of test predictions
+- *data*: Folder containing raw train and test data
+- *output.csv*: output of test predictions
